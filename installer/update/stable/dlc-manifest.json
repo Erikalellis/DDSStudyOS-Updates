@@ -1,1 +1,23 @@
-{   "channel": "stable",   "product": "DDS StudyOS",   "appVersion": "3.2.0",   "minimumAppVersion": "3.2.0",   "manifestVersion": 1,   "generatedAtUtc": "2026-02-28T23:54:30.9369640Z",   "releaseTag": "v3.2.0",   "modules": [     {       "id": "web-content",       "version": "3.2.0",       "assetName": "DDSStudyOS-DLC-web-content.zip",       "downloadUrl": "https://github.com/Erikalellis/DDSStudyOS/releases/download/v3.2.0/DDSStudyOS-DLC-web-content.zip",       "sha256": "8b89a97ca78132e1a1e3a3659a9cd7145986728244618891b1c8fa8bf03b852b",       "sizeBytes": 524,       "extractSubdirectory": "web-content",       "required": false,       "description": "Conteudo web interno e atalhos do navegador integrado.",       "enabled": true     }   ] }
+{
+  "channel": "stable",
+  "product": "DDS StudyOS",
+  "appVersion": "3.2.0",
+  "minimumAppVersion": "3.2.0",
+  "manifestVersion": 1,
+  "generatedAtUtc": "2026-02-28T23:54:30.936964Z",
+  "releaseTag": "v3.2.0",
+  "modules": [
+    {
+      "id": "web-content",
+      "version": "3.2.0",
+      "assetName": "DDSStudyOS-DLC-web-content.zip",
+      "downloadUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/download/v3.2.0/DDSStudyOS-DLC-web-content.zip",
+      "sha256": "8b89a97ca78132e1a1e3a3659a9cd7145986728244618891b1c8fa8bf03b852b",
+      "sizeBytes": 524,
+      "extractSubdirectory": "web-content",
+      "required": false,
+      "description": "Conteudo web interno e atalhos do navegador integrado.",
+      "enabled": true
+    }
+  ]
+}
