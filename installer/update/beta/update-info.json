@@ -4,11 +4,11 @@
   "company": "Deep Darkness Studios",
   "currentVersion": "3.2.2",
   "installerAssetName": "DDSStudyOS-Beta-Setup.exe",
-  "downloadUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/download/v3.2.2-beta.2/DDSStudyOS-Beta-Setup.exe",
-  "releasePageUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/tag/v3.2.2-beta.2",
-  "releaseNotesUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/tag/v3.2.2-beta.2",
+  "downloadUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/download/v3.2.2-beta.3/DDSStudyOS-Beta-Setup.exe",
+  "releasePageUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/tag/v3.2.2-beta.3",
+  "releaseNotesUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/releases/tag/v3.2.2-beta.3",
   "supportUrl": "https://github.com/Erikalellis/DDSStudyOS-Updates/blob/main/USER_GUIDE_PUBLIC.md",
-  "updatedAtUtc": "2026-03-02T13:10:49.2424031Z",
+  "updatedAtUtc": "2026-03-02T14:49:09.5333545Z",
   "signerThumbprint": "6780CE530A33615B591727F5334B3DD075B76422",
-  "installerSha256": "1B5BE79F76B429F02EC908BC1A1220ED0F9D04B09638E6B56BB435BE99716591"
+  "installerSha256": "392DA6262BE9DCC9D3E1F068D5DCD1DD2D9AB0BF31BDDF2361552CBF0089F8FD"
 }
