@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.3-beta.2
+
+- Hotfix para impedir que instaladores baixados aparecam em Materiais/Cadastrados
+- Tela de Materiais passa a limpar registros antigos de instaladores sem curso vinculado
+- Feed beta atualizado para a tag v3.2.3-beta.2
+
 ## 3.2.3-beta.1
 
 - Corte tecnico do beta para destravar updates in-app acima de 3.2.2
