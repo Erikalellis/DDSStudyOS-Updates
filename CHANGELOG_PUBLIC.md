@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.2-beta.2
+
+- Hotfix do instalador beta com assinatura digital valida
+- Feed beta realinhado para o asset assinado da tag v3.2.2-beta.2
+- Versao funcional entregue ao usuario: 3.2.2
+
 ## 3.2.2-beta.1
 
 - Hotfix de links publicos do app apontando para `DDSStudyOS-Updates`
@@ -23,3 +29,4 @@
 ## Observacao
 
 Este changelog e um resumo voltado ao usuario final.
+
