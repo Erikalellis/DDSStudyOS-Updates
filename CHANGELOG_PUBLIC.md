@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.3-beta.1
+
+- Corte tecnico do beta para destravar updates in-app acima de 3.2.2
+- Instalador beta assinado e feed atualizado para a tag v3.2.3-beta.1
+- Canal stable mantido em 3.2.1
+
 ## 3.2.2-beta.3
 
 - Beta novo com study-templates visivel no Dashboard
