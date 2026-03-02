@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.2-beta.1
+
+- Hotfix de links publicos do app apontando para `DDSStudyOS-Updates`
+- Canal `beta` atualizado para validacao controlada do ciclo `Power-Up`
+- Canal `stable` mantido em `3.2.1` durante a janela de adocao da bridge
+
 ## 3.2.1
 
 - Bridge de migracao para o novo canal publico de updates
