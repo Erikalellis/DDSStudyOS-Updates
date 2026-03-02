@@ -2,27 +2,29 @@
 
 ## Atual
 
-- `3.2.1 - Checkpoint`
-- foco: consolidacao da bridge de updates e polimento dos modulos publicos
+- `3.2.4 - Stable Consolidado`
+- foco: base estavel com links publicos, `study-templates` e limpeza de Materiais/Cadastrados
 
 ## Proximo
 
-### 3.2.2 - Power-Up
+### Continuidade da linha 3.2.x
 
 Planejado:
 
-- `study-templates`
 - `pomodoro-presets`
 - `help-center`
+- `browser-presets`
+- `notification-pack`
+- `community-feed`
 
 ## Em seguida
 
-### 3.2.3 - Signal Boost
+### 3.3.0 - Quest Hub
 
 Planejado:
 
-- `browser-presets`
-- `notification-pack`
+- nova leva de recursos no core
+- avaliacao de biblioteca modular por area de estudo
 - `community-feed`
 
 ## Depois

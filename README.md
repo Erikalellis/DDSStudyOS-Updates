@@ -15,6 +15,8 @@ Aqui ficam apenas os arquivos necessarios para usuarios e testers:
 
 - Releases: `https://github.com/Erikalellis/DDSStudyOS-Updates/releases`
 - Ultimo setup: `https://github.com/Erikalellis/DDSStudyOS-Updates/releases/latest/download/DDSStudyOS-Setup.exe`
+- Stable atual: `3.2.4`
+- Beta em validacao: `3.2.3-beta.2`
 
 ## Canais
 

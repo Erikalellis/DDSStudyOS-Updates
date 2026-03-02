@@ -1,5 +1,12 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.4
+
+- Promocao do canal stable para 3.2.4 com os hotfixes validados no beta
+- Links publicos consolidados em DDSStudyOS-Updates
+- Study-templates visivel no Dashboard e limpeza automatica de Materiais/Cadastrados
+- Manifests stable atualizados para o novo setup e DLCs estaveis da tag v3.2.4
+
 ## 3.2.3-beta.2
 
 - Hotfix para impedir que instaladores baixados aparecam em Materiais/Cadastrados
