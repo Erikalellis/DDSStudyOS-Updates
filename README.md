@@ -33,6 +33,7 @@ Aqui ficam apenas os arquivos necessarios para usuarios e testers:
 - `USER_GUIDE_PUBLIC.md`
 - `CHANGELOG_PUBLIC.md`
 - `ROADMAP_PUBLIC.md`
+- `TESTER_DOWNLOADS_3.2.1.md`
 
 ## Observacao
 
