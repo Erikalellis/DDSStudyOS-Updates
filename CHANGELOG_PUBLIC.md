@@ -1,3 +1,9 @@
+## [3.2.6-beta.1] - 2026-03-04
+
+- Beta focado em validar rowser-presets no navegador integrado.
+- Mantem os pacotes Power-Up (study-templates, pomodoro-presets e help-center).
+- Feed beta promovido para nova rodada de testes antes da consolidacao em stable.
+
 # DDS StudyOS - Changelog Publico
 
 ## 3.2.5-beta.1
@@ -60,5 +66,6 @@
 ## Observacao
 
 Este changelog e um resumo voltado ao usuario final.
+
 
 
