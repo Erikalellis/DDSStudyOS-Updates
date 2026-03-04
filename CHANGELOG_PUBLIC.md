@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.5-beta.1
+
+- Power-Up consolidado no beta com study-templates, pomodoro-presets e help-center
+- Instalador beta assinado, pacote portatil e DLCs atualizados para a tag v3.2.5-beta.1
+- Canal stable permanece em 3.2.4 durante a validacao incremental
+
 ## 3.2.4
 
 - Promocao do canal stable para 3.2.4 com os hotfixes validados no beta
