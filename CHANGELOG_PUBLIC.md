@@ -1,5 +1,11 @@
 # DDS StudyOS - Changelog Publico
 
+## 3.2.7
+
+- Promocao do canal stable para 3.2.7 com Signal Boost completo
+- Setup estavel assinado, pacote portatil e checksums atualizados
+- Manifestos stable e beta sincronizados no canal publico DDSStudyOS-Updates
+
 ## 3.2.7-beta.1
 
 - Signal Boost completo no beta: browser-presets, notification-pack e community-feed
