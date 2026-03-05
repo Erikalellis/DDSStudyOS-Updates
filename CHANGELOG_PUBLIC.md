@@ -1,10 +1,17 @@
-## [3.2.6-beta.1] - 2026-03-04
-
-- Beta focado em validar rowser-presets no navegador integrado.
-- Mantem os pacotes Power-Up (study-templates, pomodoro-presets e help-center).
-- Feed beta promovido para nova rodada de testes antes da consolidacao em stable.
-
 # DDS StudyOS - Changelog Publico
+
+## 3.2.7-beta.1
+
+- Signal Boost completo no beta: browser-presets, notification-pack e community-feed
+- Agenda passa a usar presets de snooze e mensagem de dica via DLC notification-pack
+- Tela Desenvolvimento passa a usar comunicados dinamicos via DLC community-feed
+- Feed beta atualizado para a tag v3.2.7-beta.1
+
+## 3.2.6-beta.1
+
+- Beta focado em validar browser-presets no navegador integrado
+- Mantem os pacotes Power-Up (study-templates, pomodoro-presets e help-center)
+- Feed beta promovido para nova rodada de testes antes da consolidacao em stable
 
 ## 3.2.5-beta.1
 
@@ -45,15 +52,15 @@
 
 ## 3.2.2-beta.1
 
-- Hotfix de links publicos do app apontando para `DDSStudyOS-Updates`
-- Canal `beta` atualizado para validacao controlada do ciclo `Power-Up`
-- Canal `stable` mantido em `3.2.1` durante a janela de adocao da bridge
+- Hotfix de links publicos do app apontando para DDSStudyOS-Updates
+- Canal beta atualizado para validacao controlada do ciclo Power-Up
+- Canal stable mantido em 3.2.1 durante a janela de adocao da bridge
 
 ## 3.2.1
 
 - Bridge de migracao para o novo canal publico de updates
-- Nova infraestrutura de distribuicao em `DDSStudyOS-Updates`
-- Conteudos DLC `web-content`, `onboarding-content` e `branding-assets`
+- Nova infraestrutura de distribuicao em DDSStudyOS-Updates
+- Conteudos DLC web-content, onboarding-content e branding-assets
 - Setup, beta setup, portable e manifests atualizados
 
 ## 3.2.0
@@ -66,6 +73,3 @@
 ## Observacao
 
 Este changelog e um resumo voltado ao usuario final.
-
-
-
