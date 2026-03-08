@@ -1,8 +1,8 @@
 {
   "channel": "beta",
   "product": "DDS StudyOS",
-  "appVersion": "3.2.8",
-  "minimumAppVersion": "3.2.8",
+  "appVersion": "3.2.8-beta.1",
+  "minimumAppVersion": "3.2.8-beta.1",
   "manifestVersion": 1,
   "generatedAtUtc": "2026-03-08T11:13:53.4558421Z",
   "releaseTag": "v3.2.8",
